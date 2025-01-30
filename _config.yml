@@ -1,0 +1,9 @@
+title: Documentation for fine-grain LxGr tags 
+description: >- 
+  Uses jekyll rtd theme
+  
+theme: null
+remote_theme: "sternenseemann/jekyll-rtd-theme"
+
+plugins:
+  - jekyll-remote-theme
